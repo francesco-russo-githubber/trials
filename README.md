@@ -31,8 +31,10 @@
 <center><h3><span style="color:grey">Why choose Osiria?</span></h3></center>
 
 <center><p><span style="color:grey">
+    
 - Non-commercial & No-profit: Osiria is driven by a genuine passion for NLP and the Italian language, with no ulterior motives or fees.
 - For Developers & Enthusiasts: Osiria is developed and maintained specifically for the needs of developers, practitioners, and language enthusiasts.
+
 </span></p></center>
 
 <center><p><span style="color:grey">Stay Connected!</span></p></center>

@@ -4,15 +4,14 @@ title: Who is behind Osiria
 permalink: /page2/
 ---
 
-.inner {
-    margin-left: 50px;
-    margin-right: 50px;
-}
+<center><h3>Hi there!</h3></center>
 
-<div class="inner">
-       <script
-	type="module"
-	src="https://gradio.s3-us-west-2.amazonaws.com/3.39.0/gradio.js"></script>
+<center><h3>I'm Francesco, the creator and maintainer of Osiria, and I am a Data Scientist</h3></center>
 
-<gradio-app src="https://osiria-deberta-italian-question-answering.hf.space"></gradio-app>
-</div>
+<center><p>I have been working in the field of Data Science for 3 years, mostly in the area of Natural Language Processing</p></center>
+
+<center><p>My academic background mainly includes Applied Mathematics, Physics, Data Science and Machine Learning, with some Biology here and there</p></center>
+
+<center><p>I am passionate about creating effective and innovative technologies, which can actually make a difference</p></center>
+
+<center><p>You can contact me on LinkedIn at:</p></center>

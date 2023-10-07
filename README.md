@@ -24,5 +24,3 @@
 </center>
 <br>
 <center><h1><span style="color:grey">imagine. innovate. inspire.</span></h1></center>
-
-<center><p><span style="color:grey">Stay Connected!</span></p></center>

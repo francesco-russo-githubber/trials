@@ -17,7 +17,7 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-   - /pages/page1.md
+   - page1.md
 
 # Theme-specific settings
 

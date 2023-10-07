@@ -18,6 +18,7 @@ plugins:
 
 header_pages:
    - page1.md
+   - page2.md
 
 # Theme-specific settings
 

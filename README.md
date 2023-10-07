@@ -20,7 +20,7 @@
 <center><p><span style="color:grey">Osiria is a non-commercial, no-profit initiative for Natural Language Processing in Italian. Its mission is to provide developers, practitioners, and enthusiasts with top-notch models and tools for NLP tasks.</span></p></center>
 
 <hr>
-
+<br>
 <center><h3><span style="color:grey">What is this about?</span></h3></center>
 
 <center><p><span style="color:grey">Osiria is dedicated to simplifying your NLP journey. The offering includes:
@@ -31,7 +31,7 @@
 </span></p></center>
 
 <hr>
-
+<br>
 <center><h3><span style="color:grey">Why choose Osiria?</span></h3></center>
 
 <center><p><span style="color:grey">
@@ -42,5 +42,5 @@
 </span></p></center>
 
 <hr>
-
+<br>
 <center><p><span style="color:grey">Stay Connected!</span></p></center>

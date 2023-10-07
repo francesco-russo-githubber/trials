@@ -24,11 +24,11 @@
 
 <center><p><span style="color:grey">Osiria is dedicated to simplifying your NLP journey. The offering includes:
 <br>
-Applications: Enjoy a wide range of pre-built NLP applications for tasks like topic modeling, information extraction, and more.
+<b>Applications:</b> Enjoy a wide range of pre-built NLP applications for tasks like topic modeling, information extraction, and more.
 <br>
-Models: Access state-of-the-art language models, fine-tuned specifically for Italian, making your NLP projects easier and more efficient.
+<b>Models:</b> Access state-of-the-art language models, fine-tuned specifically for Italian
 <br>
-Resources: Dive into a useful collection of tutorials, guides, and tips, which will help you hone your NLP skills, whether you're a novice or an expert.
+<b>Resources:</b> Dive into a useful collection of tutorials, guides, and tips, which will help you hone your NLP skills
 </span></p></center>
 
 <br>

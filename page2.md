@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who is behind Osiria
+title: who is behind osiria
 permalink: /page2/
 ---
 

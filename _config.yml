@@ -5,16 +5,16 @@
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  imagine. innovate. inspire
+#description: >
+#  imagine. innovate. inspire
 
 # Build settings
 
 # theme: minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+#plugins:
+#  - jekyll-feed
+#  - jekyll-seo-tag
 
 # Theme-specific settings
 

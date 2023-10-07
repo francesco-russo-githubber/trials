@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Demo
+title: demo
 permalink: /page3/
 ---
 

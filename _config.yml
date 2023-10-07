@@ -1,4 +1,4 @@
-#title: o s i r i a
+title: o s i r i a
 #author:
 #  name: Francesco Russo
 #  email: your-email@domain.com
@@ -10,15 +10,15 @@
 
 # Build settings
 
-# theme: minima
+theme: minima
 
-#plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Theme-specific settings
 
-#minima:
+minima:
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #

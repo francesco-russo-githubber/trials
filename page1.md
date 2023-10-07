@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is Osiria
+title: what is osiria
 permalink: /page1/
 ---
 

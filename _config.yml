@@ -16,9 +16,12 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+header_pages:
+   - /pages/page0.md
+
 # Theme-specific settings
 
-minima:
+#minima:
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
@@ -46,9 +49,6 @@ minima:
 # If you want to link only specific pages in your header, uncomment this and add the path to the pages in
 # order as they should show up.
 #
-header_pages:
-   - /pages/page0.md
-
 # Set to `true` to show excerpts on the homepage.
 #
 # show_excerpts: false

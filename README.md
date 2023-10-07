@@ -23,7 +23,9 @@
 <hr>
 <center><h3><span style="color:grey">What is this about?</span></h3></center>
 <br>
-<center><h3><span style="font-size:3em">🌎 📄 📊 📰 📚</h3></span></center><br><br>
+<center><h3><span style="font-size:3em">🌎 📄 📊 📰 📚</span></h3></center>
+<br>
+<br>
 <center><p><span style="color:grey">Osiria is dedicated to simplifying your NLP journey. The offering includes:
 <br>
 <br>

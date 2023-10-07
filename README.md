@@ -1,4 +1,3 @@
---------------------------------------------------------------------------------------------------
 <style>
 .vertical-text {
     writing-mode: vertical-lr;
@@ -17,4 +16,3 @@
 </body>
 </center>
 <br>
-<center><img src="file/primo.png" width="100"></center>

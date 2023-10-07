@@ -42,9 +42,9 @@
 <center><p><span style="color:grey">
     
 <br>
-<b>Non-commercial & No-profit:</b> Osiria is driven by a genuine passion for NLP and the Italian language, with no ulterior motives or fees.
+<b>Non-commercial & no-profit:</b> Osiria is driven by a genuine passion for NLP and the Italian language, with no ulterior motives or fees.
 <br>
-<b>For Developers & Enthusiasts:</b> Osiria is developed and maintained specifically for the needs of developers, practitioners, and language enthusiasts.
+<b>For developers & enthusiasts:</b> Osiria is developed and maintained specifically for the needs of developers, practitioners, and language enthusiasts.
 
 <center><img src="nn_dots.png"></center>
 

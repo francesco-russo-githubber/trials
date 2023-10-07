@@ -16,5 +16,5 @@
 </body>
 </center>
 <br>
-<center><h1>Welcome to Osiria</h1></center>
-<center><p>Osiria is a non-commercial, no-profit initiative for natural language processing in Italian</p></center>
+<center><h1><span style="color:grey">Welcome to Osiria</span></h1></center>
+<center><p><span style="color:grey">Osiria is a non-commercial, no-profit initiative for natural language processing in Italian</span></p></center>

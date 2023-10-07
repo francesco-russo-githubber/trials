@@ -46,6 +46,8 @@
 <br>
 <b>For Developers & Enthusiasts:</b> Osiria is developed and maintained specifically for the needs of developers, practitioners, and language enthusiasts.
 
+<center><img src="nn_dots.png"></center>
+
 </span></p></center>
 
 <br>

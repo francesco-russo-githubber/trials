@@ -41,6 +41,5 @@ Resources: Dive into a useful collection of tutorials, guides, and tips, which w
 
 </span></p></center>
 
-<hr>
 <br>
 <center><p><span style="color:grey">Stay Connected!</span></p></center>

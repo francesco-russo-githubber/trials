@@ -21,7 +21,7 @@
 
 <br>
 <center><h3><span style="color:grey">What is this about?</span></h3></center>
-
+<br>
 <center><p><span style="color:grey">Osiria is dedicated to simplifying your NLP journey. The offering includes:
 <br>
 <b>Applications:</b> Enjoy a wide range of pre-built NLP applications for tasks like topic modeling, information extraction, and more.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Page1
+title: What is Osiria
 permalink: /page1/
 ---
 
@@ -9,7 +9,7 @@ permalink: /page1/
 <br>
 <hr>
 <br>
-<center><h3><span style="color:grey">What is this about?</span></h3></center>
+<center><h3><span style="color:grey">What's Osiria about?</span></h3></center>
 <br>
 <center><h3><span style="font-size:3em">🌎 📄 📊 📰 📚</span></h3></center>
 <br>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: demo qa
-permalink: /demo qa/
+permalink: /demo_qa/
 ---
 
 <div class="inner">

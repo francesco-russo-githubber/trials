@@ -20,4 +20,5 @@ permalink: /contacts/
 <br>
 <br>
 
-<center><p><span style="color:grey">You can contact me on LinkedIn at:</span></p></center>
+<center><p><span style="color:grey">You can contact me on <a href="https://www.linkedin.com/in/francesco-russo-32a1901b4/">LinkedIn</a></span></p></center>
+<center><p><span style="color:grey">Or you can find me on <a href="https://huggingface.co/osiria">HuggingFace</a></span></p></center>

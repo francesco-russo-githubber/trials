@@ -11,6 +11,11 @@ permalink: /contacts/
 <br>
 <br>
 
+<img src="https://github.com/francesco-russo-githubber/trials/blob/main/circular_picture.png">
+
+<br>
+<br>
+
 <center><p><span style="color:grey">I have been working in the field of Data Science for 3 years, mostly in the area of Natural Language Processing</span></p></center>
 
 <center><p><span style="color:grey">My academic background mainly includes Applied Mathematics, Physics, Data Science and Machine Learning, with some Biology here and there</span></p></center>

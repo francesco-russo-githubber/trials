@@ -15,6 +15,9 @@ permalink: /about/
 }
 </style>
 
+<br>
+<br>
+
 <center>
 <body>
 <span class="vertical-text" style="background-color:lightgreen;border-radius: 3px;padding: 3px;"> </span>
@@ -25,6 +28,9 @@ permalink: /about/
 <span class="vertical-text" style="background-color:#CF9FFF;border-radius: 3px;padding: 3px;"> </span>
 </body>
 </center>
+
+<br>
+<br>
 
 <center><p><span style="color:grey">Its mission is to provide developers, practitioners, and enthusiasts with top-notch models and tools for NLP tasks</span></p></center>
 

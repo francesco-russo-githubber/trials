@@ -17,12 +17,12 @@ plugins:
   - jekyll-seo-tag
 
 header_pages:
-   - page1.md
-   - page2.md
-   - page3.md
-   - page4.md
-   - page5.md
-   - page6.md
+   - about.md
+   - blog.md
+   - applications.md
+   - models.md
+   - resources.md
+   - contacts.md
 
 # Theme-specific settings
 

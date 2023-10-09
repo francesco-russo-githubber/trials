@@ -36,6 +36,7 @@ Before being fine-tuned for specific tasks, GPT models undergo extensive trainin
 
 <p><span style="color:grey">GPT's architecture is built upon a series of layers that process input text and generate new text in a left-to-right fashion (unlike models like BERT, which are bi-directional). Here's a simplified breakdown of how it works:
 <br>
+<br>
 • <b>Tokenization:</b> GPT divides input text into smaller units called tokens, which can be as short as a single character or as long as a word. Each token is assigned a unique numerical representation.
 <br>
 • <b>Embedding:</b> These numerical representations are then transformed into continuous vector embeddings, enabling the model to process them effectively.
@@ -56,6 +57,7 @@ This allows the model to understand the context in which each token appears.
 <p><span style="color:grey">
 GPT has found a wide range of applications in the field of NLP. Some of its most notable uses include:
 <br>
+<br>
 • <b>Text Generation:</b> GPT is widely used for generating human-like text in various contexts, such as chatbots, content creation, and even creative writing.
 <br>
 • <b>Question Answering:</b> GPT-powered models can answer questions by extracting relevant information from a given text, making them useful for chatbots and search engines.
@@ -74,6 +76,7 @@ Language Understanding: GPT's ability to comprehend and generate text enables it
 
 <p><span style="color:grey">
 While GPT has shown remarkable capabilities in NLP, it is not without its challenges and limitations. Some of these include:
+<br>
 <br>
 • <b>Bias:</b> GPT models can inherit biases present in the training data, leading to biased or politically incorrect outputs.
 <br>

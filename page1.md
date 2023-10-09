@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about osiria
-permalink: /page1/
+permalink: /about/
 ---
 
 <center><h3><span style="color:grey">What is Osiria?</span></h3></center>

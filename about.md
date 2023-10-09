@@ -4,9 +4,7 @@ title: about osiria
 permalink: /about/
 ---
 
-<center><h3><span style="color:grey">What is Osiria?</span></h3></center>
-
-<center><h3><span style="color:grey">Osiria is a non-commercial, no-profit initiative for Natural Language Processing in Italian</span></h3></center>
+<center><h3><span style="color:grey">Osiria is a non-commercial, no-profit project for Natural Language Processing in Italian</span></h3></center>
 
 <style>
 .vertical-text {

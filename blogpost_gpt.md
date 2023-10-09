@@ -39,7 +39,7 @@ Before being fine-tuned for specific tasks, GPT models undergo extensive trainin
 <br>
 • <b>Tokenization:</b> GPT divides input text into smaller units called tokens, which can be as short as a single character or as long as a word. Each token is assigned a unique numerical representation.
 <br>
-• <b>Embedding:</b> These numerical representations are then transformed into continuous vector embeddings, enabling the model to process them effectively.
+• <b>Embedding:</b> These numerical representations are then transformed into vector embeddings, enabling the model to process them effectively.
 <br>
 • <b>Self-Attention Mechanism:</b> The heart of the Transformer architecture is its self-attention mechanism. GPT uses self-attention to analyze the relationships between different tokens in the input text.
 This allows the model to understand the context in which each token appears.

@@ -51,11 +51,16 @@ This transfer learning approach is highly efficient since it leverages the gener
 
 <h3><span style="color:grey">BERT in NLP Applications</span></h3>
 
-<p><span style="color:grey">- Text Classification: BERT has been widely used for tasks like sentiment analysis, spam detection, and topic classification. Its contextual understanding of language allows it to capture subtle nuances in text, improving classification accuracy.
-- Named Entity Recognition (NER): BERT is effective in identifying entities such as names of people, organizations, and locations within a text. Its ability to understand context helps in accurate NER.
-- Question Answering: BERT powers question-answering systems by taking a question and a passage of text and identifying an answer span based on the context. This has applications in chatbots, search engines, and virtual assistants.
-- Semantic Search: BERT plays a vital role in improving the accuracy of search engines. It helps in understanding user queries and retrieving more relevant results.
-- Language Understanding: BERT has enabled machines to comprehend natural language instructions better, which is essential in human-computer interaction, virtual assistants, and automated customer support systems.
+<p><span style="color:grey">
+• Text Classification: BERT has been widely used for tasks like sentiment analysis, spam detection, and topic classification. Its contextual understanding of language allows it to capture subtle nuances in text, improving classification accuracy.
+    <br>
+• Named Entity Recognition (NER): BERT is effective in identifying entities such as names of people, organizations, and locations within a text. Its ability to understand context helps in accurate NER.
+    <br>
+• Question Answering: BERT powers question-answering systems by taking a question and a passage of text and identifying an answer span based on the context. This has applications in chatbots, search engines, and virtual assistants.
+    <br>
+• Semantic Search: BERT plays a vital role in improving the accuracy of search engines. It helps in understanding user queries and retrieving more relevant results.
+    <br>
+• Language Understanding: BERT has enabled machines to comprehend natural language instructions better, which is essential in human-computer interaction, virtual assistants, and automated customer support systems.
 </span></p>
 <br>
 <br>

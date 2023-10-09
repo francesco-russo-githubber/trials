@@ -25,3 +25,6 @@
 <br>
 <center><h1><span style="font-size:1.5em;color:grey">osiria</span></h1></center>
 <center><h1><span style="color:grey">imagine. innovate. inspire.</span></h1></center>
+
+
+<center><img src="./assets/imgs/circular_picture.png" width="250" height="250"></center>

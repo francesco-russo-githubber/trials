@@ -12,6 +12,7 @@ permalink: /contacts/
 <br>
 
 <center><img src="./assets/imgs/circular_picture.png" width="250" height="250"></center>
+![image info](./assets/imgs/circular_picture.png)
 
 <br>
 <br>

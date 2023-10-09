@@ -80,7 +80,7 @@ While GPT has shown remarkable capabilities in NLP, it is not without its challe
 <br>
 • <b>Bias:</b> GPT models can inherit biases present in the training data, leading to biased or politically incorrect outputs.
 <br>
-• <b>Lack of Common Sense:</b> GPT models may generate plausible-sounding but factually incorrect or nonsensical information.
+• <b>Hallucinations:</b> GPT models may generate plausible-sounding but factually incorrect or nonsensical information.
 <br>
 • <b>Fine-Tuning:</b> To achieve optimal performance, GPT models often require fine-tuning on specific tasks, which can be a resource-intensive process.
 </span></p>

@@ -6,7 +6,7 @@ permalink: /contacts/
 
 <center><h3><span style="color:grey">Hi there!</span></h3></center>
 
-<center><h3><span style="color:grey">I'm Francesco, the creator and maintainer of Osiria, and I am a Data Scientist</span></h3></center>
+<center><h3><span style="color:grey">I'm Francesco, creator and maintainer of Osiria, AI enthusiast</span></h3></center>
 
 <br>
 <br>

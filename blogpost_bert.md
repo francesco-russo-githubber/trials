@@ -1,3 +1,9 @@
+---
+layout: page
+title: blog
+permalink: /blogpost_bert/
+---
+
 <h1>Understanding BERT: the main building block of Natural Language Understanding</h1>
 
 <br>

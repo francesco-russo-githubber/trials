@@ -27,4 +27,4 @@
 <center><h1><span style="color:grey">imagine. innovate. inspire.</span></h1></center>
 
 
-<center><img src="./assets/imgs/circular_picture.png" width="250" height="250"></center>
+<center><img src="circular_picture.png" width="250" height="250"></center>

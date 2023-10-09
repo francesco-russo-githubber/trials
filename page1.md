@@ -14,8 +14,14 @@ permalink: /page1/
 
 <center><p><span style="color:grey">Dive into a useful collection of tutorials, guides, and tips, which will help you hone your NLP skills</span></p></center>
 
+<br>
+<br>
+
 <center><p><span style="color:grey">Driven by a genuine passion for NLP and the Italian language, with no ulterior motives or fees</span></p></center>
 
 <center><p><span style="color:grey">Developed and maintained specifically for the needs of developers, practitioners, and language enthusiasts</span></p></center>
+
+<br>
+<br>
 
 <center><p><span style="color:grey">Find Osiria on HuggingFace at: https://huggingface.co/osiria</span></p></center>

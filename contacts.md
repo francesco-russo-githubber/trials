@@ -11,8 +11,7 @@ permalink: /contacts/
 <br>
 <br>
 
-<center><img src="./assets/imgs/circular_picture.png" width="250" height="250"></center>
-![image info](./assets/imgs/circular_picture.png)
+<center><img src="https://raw.githubusercontent.com/francesco-russo-githubber/trials/main/circular_picture.png" width="250" height="250"></center>
 
 <br>
 <br>

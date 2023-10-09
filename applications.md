@@ -19,7 +19,7 @@ permalink: /applications/
 <br>
 <br>
 
-<center><p><span style="color:grey">Here is a list of selected demo applications for common NLP task in the Italian language</span></p></center>
+<center><p><span style="color:grey">Here is a list of selected demo applications for common NLP tasks in the Italian language</span></p></center>
 <br>
 <center><p><span style="color:grey">Demo <a href="https://francesco-russo-githubber.github.io/trials/demo_text_classification/">Text Classification 🏷️</a> App<br>A demo for a Text Classification app based on a DistilBERT model of the Water collection, obtained from the Universal Sentence Encoder</span></p></center>
 <br>

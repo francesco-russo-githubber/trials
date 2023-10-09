@@ -32,4 +32,4 @@ permalink: /applications/
 <br>
 <br>
 
-<center><p><span style="color:grey">You can find the full list of demos at <a href="https://huggingface.co/osiria">Osiria's HuggingFace Page</a></span></p></center>
+<center><p><span style="color:grey">You can find the full list of demos on <a href="https://huggingface.co/osiria">Osiria's HuggingFace Page</a></span></p></center>

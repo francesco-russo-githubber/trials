@@ -4,7 +4,7 @@ title: applications
 permalink: /applications/
 ---
 
-<center><h2><span style="color:grey">Applications</span></h2></center>
+<center><h3><span style="color:grey">Applications</span></h3></center>
 
 <br>
 <br>
@@ -14,7 +14,7 @@ permalink: /applications/
 <br>
 <br>
 
-<center><h2><span style="color:grey">Demos</span></h2></center>
+<center><h3><span style="color:grey">Demos</span></h3></center>
 
 <br>
 <br>

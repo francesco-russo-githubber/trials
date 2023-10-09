@@ -23,11 +23,11 @@ permalink: /applications/
 <br>
 <center><p><span style="color:grey">Demo <a href="https://francesco-russo-githubber.github.io/trials/demo_text_classification/">Text Classification 🏷️</a> App<br>A demo for a Text Classification app based on a DistilBERT model of the Water collection, obtained from the Universal Sentence Encoder</span></p></center>
 <br>
-<center><p><span style="color:grey">Demo <a href="https://www.linkedin.com/in/francesco-russo-32a1901b4/">Named Entity Recognition 🔍</a> App<br>(cased version)<br>A demo for a NER app based on a the cased Italian BERT model from the "Earth" collection</span></p></center>
+<center><p><span style="color:grey">Demo <a href="https://francesco-russo-githubber.github.io/trials/demo_cased_ner/">Named Entity Recognition 🔍</a> App<br>(cased version)<br>A demo for a NER app based on a the cased Italian BERT model from the "Earth" collection</span></p></center>
 <br>
 <center><p><span style="color:grey">Demo <a href="https://francesco-russo-githubber.github.io/trials/demo_uncased_ner/">Named Entity Recognition 🔍</a> App<br>(uncased version)<br>A demo for a NER app based on a the uncased Italian BERT model from the "Earth" collection</span></p></center>
 <br>
-<center><p><span style="color:grey">Demo <a href="https://francesco-russo-githubber.github.io/trials/demo_cased_ner/">Extractive Question Answering 🎯</a> App<br>A demo for an EQA app based on a the Italian DeBERTa model from the "Earth" collection</span></p></center>
+<center><p><span style="color:grey">Demo <a href="https://francesco-russo-githubber.github.io/trials/demo_qa/">Extractive Question Answering 🎯</a> App<br>A demo for an EQA app based on a the Italian DeBERTa model from the "Earth" collection</span></p></center>
 
 <br>
 <br>

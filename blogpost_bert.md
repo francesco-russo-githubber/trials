@@ -3,6 +3,12 @@ layout: page
 title: blog
 permalink: /blogpost_bert/
 ---
+
+p {
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
 <center>
 <h1><span style="color:grey">Understanding BERT: the main building block of Natural Language Understanding</span></h1>
 

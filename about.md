@@ -46,4 +46,4 @@ permalink: /about/
 <br>
 <br>
 
-<center><p><span style="color:grey">Find Osiria on HuggingFace at: https://huggingface.co/osiria</span></p></center>
+<center><p><span style="color:grey">Find Osiria on HuggingFace at <a href="https://huggingface.co/osiria">https://huggingface.co/osiria</a></span></p></center>

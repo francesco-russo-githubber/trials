@@ -11,7 +11,7 @@ permalink: /contacts/
 <br>
 <br>
 
-<center><img src="circular_picture.png" width="250" height="250"></center>
+<center><img src="./assets/imgs/circular_picture.png" width="250" height="250"></center>
 
 <br>
 <br>

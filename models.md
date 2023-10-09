@@ -17,7 +17,7 @@ permalink: /models/
 <br>
 <center><h3><span style="color:grey">Osiria "Water" Series 💧</span></h3></center>
 <center><p><span style="color:grey">This collection is composed of adaptable and flexible models, which blend robustness and usability</span></p></center>
-<center><p><span style="color:grey">Explore the <a href="https://huggingface.co/collections/osiria/osiria-water-series-651ddc138e9df3b51c33a9f0)">Water Collection</a></span></p></center>
+<center><p><span style="color:grey">Explore the <a href="https://huggingface.co/collections/osiria/osiria-water-series-651ddc138e9df3b51c33a9f0">Water Collection</a></span></p></center>
 
 <br>
 <br>

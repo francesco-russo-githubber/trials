@@ -1,5 +1,5 @@
 ---
 layout: page
 title: applications
-permalink: /page4/
+permalink: /applications/
 ---

@@ -19,6 +19,8 @@ BERT has been a game-changer in NLP, enabling machines to understand language co
 In this blog post, we'll delve into what BERT is and explore its various applications in NLP.
 </span></p>
 
+</body>
+
 <br>
 <br>
 
@@ -72,7 +74,5 @@ Researchers are continually working on addressing these challenges and improving
 
 <p style="margin-left:100;margin-right:100;"><span style="color:grey">BERT has revolutionized the field of Natural Language Processing by introducing a contextual understanding of language. Its bidirectional approach and transfer learning capabilities have made it an invaluable tool for various NLP applications. As technology continues to evolve, we can expect even more sophisticated models to build upon the foundation laid by BERT, further enhancing our ability to interact with machines through natural language.
 </span></p>
-
-</body>
 
 </center>

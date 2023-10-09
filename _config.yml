@@ -18,9 +18,9 @@ plugins:
 
 header_pages:
    - about.md
-   - blog.md
    - applications.md
    - models.md
+   - blog.md
    - contacts.md
 
 # Theme-specific settings

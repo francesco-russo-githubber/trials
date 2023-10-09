@@ -35,7 +35,7 @@ Before being fine-tuned for specific tasks, GPT models undergo extensive trainin
 <h3><span style="color:grey">How GPT Works</span></h3>
 
 <p><span style="color:grey">GPT's architecture is built upon a series of layers that process input text and generate new text in a left-to-right fashion (unlike models like BERT, which are bi-directional). Here's a simplified breakdown of how it works:
-<br>
+
 • Tokenization: GPT divides input text into smaller units called tokens, which can be as short as a single character or as long as a word. Each token is assigned a unique numerical representation.
 <br>
 • Embedding: These numerical representations are then transformed into continuous vector embeddings, enabling the model to process them effectively.
@@ -74,6 +74,7 @@ Language Understanding: GPT's ability to comprehend and generate text enables it
 
 <p><span style="color:grey">
 While GPT has shown remarkable capabilities in NLP, it is not without its challenges and limitations. Some of these include:
+  
 • Bias: GPT models can inherit biases present in the training data, leading to biased or politically incorrect outputs.
 <br>
 • Lack of Common Sense: GPT models may generate plausible-sounding but factually incorrect or nonsensical information.

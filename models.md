@@ -4,7 +4,6 @@ title: models
 permalink: /models/
 ---
 
-<br>
 <center><h3><span style="color:grey">Explore Osiria's Collections</span></h3></center>
 
 <br>

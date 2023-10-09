@@ -44,7 +44,7 @@ Before being fine-tuned for specific tasks, GPT models undergo extensive trainin
 • <b>Self-Attention Mechanism:</b> The heart of the Transformer architecture is its self-attention mechanism. GPT uses self-attention to analyze the relationships between different tokens in the input text.
 This allows the model to understand the context in which each token appears.
 <br>
-• <b>Layer Stacking:</b> GPT consists of multiple layers of self-attention mechanisms stacked on top of each other. This hierarchical structure enables the model to capture increasingly complex patterns in the text.
+• <b>Layer Stacking:</b> GPT consists of multiple layers of self-attention mechanisms stacked on top of each other. This structure enables the model to capture increasingly complex patterns in the text.
 <br>
 • <b>Decoding:</b> After processing the input text, GPT can generate text by predicting the most likely next token based on the context it has learned during training.
 </span></p>
@@ -65,8 +65,8 @@ GPT has found a wide range of applications in the field of NLP. Some of its most
 • <b>Language Translation:</b> GPT-based models are employed in machine translation systems, helping to bridge language barriers by converting text from one language to another.
 <br>
 • <b>Text Summarization:</b> GPT can automatically generate concise summaries of lengthy documents, saving time and effort for content creators.
-
-Language Understanding: GPT's ability to comprehend and generate text enables it to be used in natural language understanding tasks, making it a valuable tool for virtual assistants and customer support chatbots.
+<br>
+• <b>Language Understanding: GPT's ability to comprehend and generate text enables it to be used in natural language understanding tasks, making it a valuable tool for virtual assistants and customer support chatbots.
 </span></p>
 
 <br>

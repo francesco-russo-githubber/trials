@@ -8,6 +8,13 @@ permalink: /about/
 
 <center><h3><span style="color:grey">Osiria is a non-commercial, no-profit initiative for Natural Language Processing in Italian</span></h3></center>
 
+<style>
+.vertical-text {
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
+</style>
+
 <center>
 <body>
 <span class="vertical-text" style="background-color:lightgreen;border-radius: 3px;padding: 3px;"> </span>

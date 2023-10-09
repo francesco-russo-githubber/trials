@@ -35,17 +35,17 @@ Before being fine-tuned for specific tasks, GPT models undergo extensive trainin
 <h3><span style="color:grey">How GPT Works</span></h3>
 
 <p><span style="color:grey">GPT's architecture is built upon a series of layers that process input text and generate new text in a left-to-right fashion (unlike models like BERT, which are bi-directional). Here's a simplified breakdown of how it works:
-
-• Tokenization: GPT divides input text into smaller units called tokens, which can be as short as a single character or as long as a word. Each token is assigned a unique numerical representation.
 <br>
-• Embedding: These numerical representations are then transformed into continuous vector embeddings, enabling the model to process them effectively.
+• <b>Tokenization:</b> GPT divides input text into smaller units called tokens, which can be as short as a single character or as long as a word. Each token is assigned a unique numerical representation.
 <br>
-• Self-Attention Mechanism: The heart of the Transformer architecture is its self-attention mechanism. GPT uses self-attention to analyze the relationships between different tokens in the input text.
+• <b>Embedding:</b> These numerical representations are then transformed into continuous vector embeddings, enabling the model to process them effectively.
+<br>
+• <b>Self-Attention Mechanism:</b> The heart of the Transformer architecture is its self-attention mechanism. GPT uses self-attention to analyze the relationships between different tokens in the input text.
 This allows the model to understand the context in which each token appears.
 <br>
-• Layer Stacking: GPT consists of multiple layers of self-attention mechanisms stacked on top of each other. This hierarchical structure enables the model to capture increasingly complex patterns in the text.
+• <b>Layer Stacking:</b> GPT consists of multiple layers of self-attention mechanisms stacked on top of each other. This hierarchical structure enables the model to capture increasingly complex patterns in the text.
 <br>
-• Decoding: After processing the input text, GPT can generate text by predicting the most likely next token based on the context it has learned during training.
+• <b>Decoding:</b> After processing the input text, GPT can generate text by predicting the most likely next token based on the context it has learned during training.
 </span></p>
 
 <br>
@@ -55,14 +55,14 @@ This allows the model to understand the context in which each token appears.
 
 <p><span style="color:grey">
 GPT has found a wide range of applications in the field of NLP. Some of its most notable uses include:
-
-• Text Generation: GPT is widely used for generating human-like text in various contexts, such as chatbots, content creation, and even creative writing.
 <br>
-• Language Translation: GPT-based models are employed in machine translation systems, helping to bridge language barriers by converting text from one language to another.
+• <b>Text Generation:</b> GPT is widely used for generating human-like text in various contexts, such as chatbots, content creation, and even creative writing.
 <br>
-• Question Answering: GPT-powered models can answer questions by extracting relevant information from a given text, making them useful for chatbots and search engines.
+• <b>Question Answering:</b> GPT-powered models can answer questions by extracting relevant information from a given text, making them useful for chatbots and search engines.
 <br>
-• Text Summarization: GPT can automatically generate concise summaries of lengthy documents, saving time and effort for content creators.
+• <b>Language Translation:</b> GPT-based models are employed in machine translation systems, helping to bridge language barriers by converting text from one language to another.
+<br>
+• <b>Text Summarization:</b> GPT can automatically generate concise summaries of lengthy documents, saving time and effort for content creators.
 
 Language Understanding: GPT's ability to comprehend and generate text enables it to be used in natural language understanding tasks, making it a valuable tool for virtual assistants and customer support chatbots.
 </span></p>
@@ -74,12 +74,12 @@ Language Understanding: GPT's ability to comprehend and generate text enables it
 
 <p><span style="color:grey">
 While GPT has shown remarkable capabilities in NLP, it is not without its challenges and limitations. Some of these include:
-  
-• Bias: GPT models can inherit biases present in the training data, leading to biased or politically incorrect outputs.
 <br>
-• Lack of Common Sense: GPT models may generate plausible-sounding but factually incorrect or nonsensical information.
+• <b>Bias:</b> GPT models can inherit biases present in the training data, leading to biased or politically incorrect outputs.
 <br>
-• Fine-Tuning: To achieve optimal performance, GPT models often require fine-tuning on specific tasks, which can be a resource-intensive process.
+• <b>Lack of Common Sense:</b> GPT models may generate plausible-sounding but factually incorrect or nonsensical information.
+<br>
+• <b>Fine-Tuning:</b> To achieve optimal performance, GPT models often require fine-tuning on specific tasks, which can be a resource-intensive process.
 </span></p>
 
 <br>

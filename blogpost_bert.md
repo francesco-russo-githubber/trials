@@ -5,21 +5,22 @@ permalink: /blogpost_bert/
 ---
 
 <center>
-<h1><span style="color:grey">Understanding BERT: the main building block of Natural Language Understanding</span></h1>
+<h1><span style="color:grey">Understanding BERT: the main building block of modern Natural Language Understanding</span></h1>
+</center>
 
 <br>
 <br>
 
 <h3><span style="color:grey">Introduction</span></h3>
 
-<body style="margin-left:100;margin-right:100;">
-  
-<p><span style="color:grey">In the world of Natural Language Processing (NLP), innovation is a constant force that drives progress. One such groundbreaking development is BERT, which stands for Bidirectional Encoder Representations from Transformers. 
+<div>
+    <div id="first"></div>
+    <div id="second"><p><span style="color:grey">In the world of Natural Language Processing (NLP), innovation is a constant force that drives progress. One such groundbreaking development is BERT, which stands for Bidirectional Encoder Representations from Transformers. 
 BERT has been a game-changer in NLP, enabling machines to understand language contextually and perform a wide range of tasks with remarkable accuracy. 
 In this blog post, we'll delve into what BERT is and explore its various applications in NLP.
-</span></p>
-
-</body>
+</span></p></div>
+    <div id="clear"></div>
+</div>
 
 <br>
 <br>

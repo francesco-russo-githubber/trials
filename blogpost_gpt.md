@@ -66,7 +66,7 @@ GPT has found a wide range of applications in the field of NLP. Some of its most
 <br>
 • <b>Text Summarization:</b> GPT can automatically generate concise summaries of lengthy documents, saving time and effort for content creators.
 <br>
-• <b>Language Understanding: GPT's ability to comprehend and generate text enables it to be used in natural language understanding tasks, making it a valuable tool for virtual assistants and customer support chatbots.
+• <b>Language Understanding:</b> GPT's ability to comprehend and generate text enables it to be used in natural language understanding tasks, making it a valuable tool for virtual assistants and customer support chatbots.
 </span></p>
 
 <br>
